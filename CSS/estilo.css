@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(69, 235, 235);
+}
+img{
+    width: 250px;
+    height: 500px;
+}
+#img1{
+    width: 500px;
+    height: 500px;
+    border-radius: 81px;
+}
+#botoncito{
+    font-family: arial;
+    font-size: larger;
+}
+
+nav{
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+li{
+    list-style:none;
+}
+nav ul li {
+    display: inline;
+    font-family: Helvetica;
+    font-size: 25px;
+    
+}
+a{
+    color:white;
+    text-decoration: none; /*quita el subrayado*/
+}
+nav ul li a{
+    padding: 40px;
+}
